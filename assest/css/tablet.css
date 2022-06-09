@@ -272,8 +272,9 @@
     }
     
     #google {
-        width: 83px;
+        width: 60px;
         height: 60px;
+        object-fit: cover;
         background-color: #D1ceca;
         border-radius: 5px;
         grid-column: 3;
@@ -284,8 +285,9 @@
     }
     
     #amazon {
-        width: 83px;
+        width: 60px;
         height: 60px;
+        object-fit: cover;
         background-color: #D1ceca;
         border-radius: 5px;
         grid-column: 4;
@@ -296,8 +298,9 @@
     }
     
     #spotify {
-        width: 83px;
+        width: 60px;
         height: 60px;
+        object-fit: cover;
         background-color: #D1ceca;
         border-radius: 5px;
         grid-column: 5;
